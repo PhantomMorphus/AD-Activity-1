@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  AD-Activity-1, First Activity in Application Development and Emerging Technologies, featuring declarations of certain variables, implementing conditional statements, and looping. 
+  AD-Activity-1, First Activity in Application Development and Emerging Technologies, featuring declarations of certain variables, implementing conditional statements, and looping.
 </div>
 
 <br />
